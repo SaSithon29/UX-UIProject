@@ -6,7 +6,8 @@
     - Plan for user involvement.
     - Conduct the resarch.
     - Validate user group definitions.
-        EXAMPLE of Point-of-view (POV) = user + needs + insights : Obtained user data through data processing and analysis. 
+        EXAMPLE of Point-of-view (POV) = user + needs + insights   
+        : Obtained user data through data processing and analysis. 
 <img width="291" alt="image" src="https://github.com/SaSithon29/UX-UIProject/assets/88130453/4d39e376-86b0-476a-a069-31f1cb82b586">  
 <img width="292" alt="image" src="https://github.com/SaSithon29/UX-UIProject/assets/88130453/408d7092-19d6-48ee-bb32-d6d690799cb8">  
 <img width="293" alt="image" src="https://github.com/SaSithon29/UX-UIProject/assets/88130453/f8548764-ee5b-4289-8830-8a9a1321b8c8">
